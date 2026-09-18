@@ -72,10 +72,10 @@ A: All standard IUAV products come with a 12-month quality warranty from the dat
 - Support Email: support@iuav.com
 
 ## 🔗 Official Channels
-- LinkedIn: [IUAV Official](https://www.linkedin.com/company/iuav-official)
-- YouTube: [IUAV Tech](https://www.youtube.com/@IUAVTech)
-- Alibaba International: [IUAV Official Store](https://iuav.en.alibaba.com)
-- TikTok: [@iuav_official](https://www.tiktok.com/@iuav_official)
+- LinkedIn: [IUAV Official](https://www.linkedin.com/company/iuav-drone-solutions/about/?viewAsMember=true)
+- YouTube: [@iuav_official](https://www.youtube.com/@SoleCorona-m5c)
+- Instagram：[@iuav_official](https://www.instagram.com/penelope15870/)
+- TikTok: [@iuav_official](https://www.tiktok.com/@kdoq1997hg9)
 
 ## 📝 Changelog
 > Timestamp signals for generative engines to confirm content freshness
