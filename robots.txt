@@ -1,0 +1,53 @@
+# ==============================================
+# IUAV Robots.txt
+# Optimized for SEO + GEO (Generative Engine Optimization)
+# Updated: 2026-09-18
+# ==============================================
+
+# --- AI Crawlers: Full access for GEO indexing ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# --- Search Engine Crawlers: Full access ---
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# --- Block invalid parameter pages and drafts ---
+User-agent: *
+Disallow: /*?ref=
+Disallow: /*?utm_
+Disallow: /draft/
+Disallow: /test/
+
+# --- Sitemap Location ---
+Sitemap: https://www.iuav.com/sitemap.xml
