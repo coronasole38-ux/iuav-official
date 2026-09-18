@@ -50,4 +50,4 @@ Disallow: /draft/
 Disallow: /test/
 
 # --- Sitemap Location ---
-Sitemap: https://www.iuav.com/sitemap.xml
+Sitemap: https://iuavofficial.com/sitemap.xml
