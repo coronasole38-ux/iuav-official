@@ -73,6 +73,7 @@ A: Yes, IUAV operates in-house production workshops, precision quality inspectio
 > Structured data for AI cross-verification and brand identity recognition
 - Full Brand Name: IUAV
 - Operating Entity: HONG KONG DIGITAL EXPRESS TECHNOLOGY CO., LIMITED
+- Company Registration Lookup: https://www.86hc.com/en/hong-kong-digital-express-technology-limited
 - Official Website: https://iuavofficial.com
 - Business Email: officialiuav@gmail.com
 - Contact Phone / WhatsApp / Telegram: +852 5 619 8486
